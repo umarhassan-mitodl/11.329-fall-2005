@@ -31,6 +31,7 @@
     "website": "11-329-social-theory-and-the-city-fall-2005"
   },
   "course_title": "Social Theory and the City",
+  "hide_download": true,
   "course_description": "This course explores how social theories of urban life can be related to the city's architecture and spaces. It is grounded in classic or foundational writings about the city addressing such topics as the public realm and public space, impersonality, crowds and density, surveillance and civility, imprinting time on space, spatial justice, and the segregation of difference. The aim of the course is to generate new ideas about the city by connecting the social and the physical, using Boston as a visual laboratory. Students are required to present a term paper mediating what is read with what has been observed.\n",
   "department_numbers": [
     "11"
@@ -41,6 +42,7 @@
     "content": "dc743899-92e6-f67a-286d-c4f9fb4cba4e",
     "website": "11-329-social-theory-and-the-city-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments with Examples"

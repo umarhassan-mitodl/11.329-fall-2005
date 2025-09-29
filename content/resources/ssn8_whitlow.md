@@ -6,6 +6,8 @@ description: This resource contains discourses about the construction of identit
 file: /courses/11-329-social-theory-and-the-city-fall-2005/52ad71ed6541fd89f23a0ba499259821_ssn8_whitlow.pdf
 file_size: 15137
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

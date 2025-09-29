@@ -6,6 +6,8 @@ description: 'This resource contains the class discussion on the paper Olga expl
 file: /courses/11-329-social-theory-and-the-city-fall-2005/79b5ea8ac05d516fea4d4e1b35517552_ssn10_touloumi.pdf
 file_size: 11760
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

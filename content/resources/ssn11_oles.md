@@ -5,6 +5,8 @@ description: This resource contains the class discussion on Inventing the modern
 file: /courses/11-329-social-theory-and-the-city-fall-2005/5d1943197fec026c019822a7643b3397_ssn11_oles.pdf
 file_size: 11786
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource talks about humans as social animals, Modern consciou
 file: /courses/11-329-social-theory-and-the-city-fall-2005/f735662c041b2839e7e7aee96483de3a_belkind_2.pdf
 file_size: 59259
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

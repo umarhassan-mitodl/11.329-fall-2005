@@ -7,6 +7,8 @@ description: 'This resource contains theoretical writing on the distinction betw
 file: /courses/11-329-social-theory-and-the-city-fall-2005/039da9a76723deb588d64642aa8631f7_touloumi_1.pdf
 file_size: 38658
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

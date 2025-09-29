@@ -4,6 +4,8 @@ description: This resource contains notes on homo-faber.
 file: /courses/11-329-social-theory-and-the-city-fall-2005/285824331632d8776e231b8ce7d289e5_ssn4.pdf
 file_size: 8197
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource talks of authenticity, mediation, invisibility, cente
 file: /courses/11-329-social-theory-and-the-city-fall-2005/ec82b0a0a7749884c0f4ed5cef22465c_ssn5_belkind.pdf
 file_size: 9611
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

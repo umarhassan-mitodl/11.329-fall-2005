@@ -5,6 +5,8 @@ description: This resource investigates ways to conceive and design positive rel
 file: /courses/11-329-social-theory-and-the-city-fall-2005/59331d29977cf8662405a9c248c8885c_ssn9_foxe.pdf
 file_size: 96167
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

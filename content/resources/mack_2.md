@@ -5,6 +5,8 @@ description: This resource contains issues related to modernist cityscapes, soci
 file: /courses/11-329-social-theory-and-the-city-fall-2005/e9dff1d04602e984e86125727fbdfac1_mack_2.pdf
 file_size: 13853
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
