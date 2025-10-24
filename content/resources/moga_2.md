@@ -5,8 +5,6 @@ description: This resource contains the  concepts of place and society, and the 
 file: /courses/11-329-social-theory-and-the-city-fall-2005/6ef69ceda6eac7a60f25ac48d0bc4e39_moga_2.pdf
 file_size: 12232
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

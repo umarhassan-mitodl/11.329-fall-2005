@@ -2,8 +2,6 @@
 content_type: page
 description: The Lecture notes section contains the session notes respective to the
   corresponding topics.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

@@ -7,8 +7,6 @@ description: 'This resource contains the notes about the class focus on developi
 file: /courses/11-329-social-theory-and-the-city-fall-2005/b66326337ee7f75e5a219bc3e3755f0d_ssn2.pdf
 file_size: 8702
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

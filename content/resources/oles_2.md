@@ -5,8 +5,6 @@ description: 'This resoure contains the concept that perhaps being human comes t
 file: /courses/11-329-social-theory-and-the-city-fall-2005/1077f9f26f3244b80c0281b5d43039b9_oles_2.pdf
 file_size: 44434
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains the experience of the city through a subway 
 file: /courses/11-329-social-theory-and-the-city-fall-2005/d4054a039570f4c1ccbaf1c2eb8476d8_felix_1.pdf
 file_size: 11287
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

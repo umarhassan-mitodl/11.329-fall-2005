@@ -7,8 +7,6 @@ description: 'This resource contains the concept that the notion of the Horizon 
 file: /courses/11-329-social-theory-and-the-city-fall-2005/55657b220a2f67643ed11c18f55151be_sawhney_2.pdf
 file_size: 15131
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

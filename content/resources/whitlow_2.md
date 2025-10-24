@@ -5,8 +5,6 @@ description: This resource Relate the physical experience of ?up,? ?down,? and ?
 file: /courses/11-329-social-theory-and-the-city-fall-2005/bc642f38391543eb587cc6a274ef5b0f_whitlow_2.pdf
 file_size: 11393
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains notes about spaces of knowledge within the n
 file: /courses/11-329-social-theory-and-the-city-fall-2005/2b9de5156fe64d19020fafba2ea53188_ssn6_felix.pdf
 file_size: 11879
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
